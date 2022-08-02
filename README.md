@@ -58,7 +58,7 @@
         <div class="header">
         </div>
         <div class="wrapper clearfix">
-            <div class="nav">
+            <div class="nav"align="left">
                 <BR>
                 <img src="front.png" width="300">
             </div>
@@ -95,7 +95,7 @@
             </div>
         </div>
         <div class="footer">
-            <p>copyright &copy; zimuquan.github.io</p>
+            <p> </p>
         </div>
     </div>
 </body>
