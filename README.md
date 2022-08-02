@@ -25,11 +25,11 @@
         box-sizing: border-box;
     }
     .nav {            
-        width: 35%;             
+        width: 30%;             
         background: #ffffff;
     }
     .section {
-        width: 65%;
+        width: 70%;
     }
     .nav ul {
         list-style: none; 
