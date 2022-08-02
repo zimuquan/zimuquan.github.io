@@ -58,9 +58,9 @@
         <div class="header">
         </div>
         <div class="wrapper clearfix">
-            <div class="nav"align="left">
+            <div class="nav" align="left">
                 <BR>
-                <img src="front.png" width="300">
+                &nbsp;<img src="front.png" width="300">
             </div>
             <div class="section" align="left">
 
