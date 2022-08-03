@@ -15,7 +15,7 @@
         font-size: 24px;
     }
     .container {
-        width: 90%;
+        width: 95%;
         background: #ffffff; 
     }
     .nav, .section {
@@ -25,11 +25,11 @@
         box-sizing: border-box;
     }
     .nav {            
-        width: 30%;             
+        width: 20%;             
         background: #ffffff;
     }
     .section {
-        width: 70%;
+        width: 80%;
     }
     .nav ul {
         list-style: none; 
@@ -60,7 +60,7 @@
         <div class="wrapper clearfix">
             <div class="nav" align="left">
                 <BR>
-                <img src="front.png" width="400">&nbsp;
+                <img src="front.png" width="300">&nbsp;
             </div>
             <div class="section" align="left">
 
