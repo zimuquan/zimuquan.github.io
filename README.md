@@ -15,7 +15,7 @@
         font-size: 24px;
     }
     .container {
-        width: 98%;
+        width: 100%;
         background: #ffffff; 
     }
     .nav, .section {
@@ -25,11 +25,11 @@
         box-sizing: border-box;
     }
     .nav {            
-        width: 20%;             
+        width: 30%;             
         background: #ffffff;
     }
     .section {
-        width: 80%;
+        width: 70%;
     }
     .nav ul {
         list-style: none; 
