@@ -65,7 +65,6 @@
             <div class="section" align="left">
 
                 <span style="font-size:150%;"><b>我有顶级的容貌和职业，现寻一名女M网调</b></span><br>
-                  <span style="font-size:130%;" style="color:#797979"><b>我是你的强势男主，也是你的心灵港湾</b></span><br><BR>
                 
                 在学校里是校草(前1%颜值，180)，在公司里是司树。被各种年龄的女性搭讪，在美国读研的那几年也是如此。<BR><BR>
 
