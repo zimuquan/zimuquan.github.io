@@ -60,7 +60,7 @@
         <div class="wrapper clearfix">
             <div class="nav" align="left">
                 <BR>
-                <img src="front.png">&nbsp;
+                <img src="front.png" width="200">&nbsp;
             </div>
             <div class="section" align="left">
 
